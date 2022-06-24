@@ -1,0 +1,207 @@
+.bghtml {
+      background-image: url("Back.png");
+      background-repeat: no-repeat;
+      background-attachment: fixed;  
+      background-size: 1366px 663px;
+}
+/*  */
+.headtitle {
+      font-family: Nasalization Free ;
+      color:#ec1d1d;
+      text-align: center;
+}
+/*  *//*  */
+.dpgpng {
+      display:block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 650px;
+      height:200px;
+      padding-top: 4cm;
+      padding-bottom: 2cm;
+}
+.logos {
+      text-align: center;
+}
+.projlogo {
+      width:60px;
+      height:60px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      display:inline;
+      text-align: center;
+      padding-right: 1.5cm;
+      padding-left:1.5cm;
+      padding-top: 1cm;
+      padding-bottom: 3cm;
+}
+.abulogo {
+      width:60px;
+      height:60px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      display:inline;
+      text-align: center;
+      padding-right: 1.5cm;
+      padding-left:1.5cm;
+      padding-top: 1cm;
+      padding-bottom: 3cm;
+
+}
+.vidlogo {
+      width:60px;
+      height:60px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      display:inline;
+      text-align: center;
+      padding-right: 1.5cm;
+      padding-left:1.5cm;
+      padding-top: 1cm;
+      padding-bottom: 3cm;
+
+}
+.loglogo {
+      width:60px;
+      height:60px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      display:inline;
+      text-align: center;
+      padding-right: 1.5cm;
+      padding-left:1.5cm;
+      padding-top: 1cm;
+      padding-bottom: 3cm;
+
+}
+.projlogo:hover {
+      width:96px;
+      height:96px;
+}
+.vidlogo:hover {
+      width:96px;
+      height:96px;
+}
+.abulogo:hover {
+      width:96px;
+      height:96px;
+}
+.loglogo:hover {
+      width:96px;
+      height:96px;
+}
+.abocontustitle {
+      font-family:Nasalization Free ;
+      font-size: 72px;
+      text-align: center;
+}
+.aboutustitle {
+      font-family:Nasalization Free ;
+      font-size: 56px;
+      text-align: center;
+}
+.whoareus {
+      font-family:Nasalization Free ;
+      text-align: center;
+}
+.whatsdpg {
+      color:black;
+      font-size: 24px;
+      font-family:Nasalization Free;
+      text-align: center;
+}
+.contactustitle {
+      font-family:Nasalization Free ;
+      font-size: 56px;
+      text-align: center;
+}
+.projtitle {
+      font-family:Nasalization Free ;
+      font-size: 72px;
+      text-align: center;
+}
+.kindofproj {
+      font-family:Nasalization Free ;
+      text-align: center;
+}
+.applogoimg {
+      width:60px;
+      height:60px;
+      padding-left: 10cm;
+      padding-right: 1.2cm;
+      padding-top: 1;
+      padding-bottom: 1;
+      display:inline;
+
+}
+.applogoimg:hover {
+      width:96px;
+      height:96px;
+}
+.weblogoprojimg {
+      width: 60px;
+      height:60px;
+      padding-left: 13cm;
+      padding-right: 1.2cm;
+      padding-top: 1;
+      padding-bottom: 1;
+      display:inline;
+}
+.weblogoprojimg:hover {
+      width:96px;
+      height:96px;
+}
+.gamelogoprojimg {
+      width: 60px;
+      height:60px;
+      padding-left: 4cm;
+      padding-right: 1.2cm;
+      padding-top: 1;
+      padding-bottom: 1;
+      display:inline;
+}
+.gamelogoprojimg:hover {
+      width:96px;
+      height:96px;
+
+}
+.videosp{
+      font-family:Nasalization Free ;
+      font-size: 72px;
+      text-align: center;
+}
+.advertisedpgvideo {
+      width: 650px;
+      height: 400px;
+      padding-left:8cm;
+}
+.seemorevideos {
+      font-family:Nasalization Free ;
+      text-align: center;
+      padding-top: 25px;
+      color:black;
+}
+.seemorevideos:hover {
+      color:rgb(28, 172, 52);
+}
+.emailcontactus {
+      font-family:Nasalization Free ;
+      font-size: 38px;
+      text-align: center;
+
+}
+.emailcontactuslogoimage {
+      width:60px;
+      height:60;
+      padding-right:8cm;
+      padding-bottom:1.5cm;
+      text-align:center;
+}
+.emailcontactuslogoimage:hover {
+      width:96px;
+
+}

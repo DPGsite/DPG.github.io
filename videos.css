@@ -1,0 +1,79 @@
+.bg {
+      background-image: url(Back.png);
+}
+.nav {
+      position: fixed;
+      width: 100%;
+      top:12px;
+      right:0;
+}
+.dpglogonav {
+      width:190px;
+      height:60px;
+      padding-left:0.5cm;
+
+}
+.homelogonav {
+      width:60px;
+      height:60px;
+      float:right;
+      padding-right:0.5cm;
+      transition: transform 1s;
+}
+.homelogonav:hover {
+      transform:rotate(20deg);
+}
+.projlogonav {
+      width:60px;
+      height:60px;
+      float:right;
+      padding-right: 1cm;
+      transition: transform 1s;
+}
+.vidlogonav {
+      width:60px;
+      height:60px;
+      float:right;
+      padding-right: 1cm;
+      transition: transform 1s;
+}
+.aboutlogonav {
+      width:60px;
+      height:60px;
+      float:right;
+      padding-right:1cm;
+      transition: transform 1s;
+}
+.loglogonav{
+      width:60px;
+      height:60px;
+      float:right;
+      transition: transform 1s;
+}
+.projlogonav:hover {
+      transform:rotate(20deg);
+}
+.vidlogonav:hover {
+      transform:rotate(20deg);
+}
+.aboutlogonav:hover {
+      transform:rotate(20deg);
+}
+.loglogonav:hover {
+      transform:rotate(20deg);
+}
+/* */
+.videotitle {
+      font-family:Nasalization Free ;
+      font-size: 72px;
+      text-align: center;
+}
+.h1advertisedpg {
+      font-family:Nasalization Free ;
+      padding-left:5cm;
+}
+.advertisedpgvideo {
+      width: 500px;
+      height: 300px;
+      padding-left:3cm;
+}
