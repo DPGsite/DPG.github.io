@@ -58,7 +58,7 @@
 }
 /* Our Projects */
 .header{
-      font-family:"Nasalization Free.ttf";
+      font-family:Nasalization Free;
       font-size:72px;
       text-align:center;
 }
@@ -85,20 +85,20 @@
       height:96px;
 }
 .header2{
-      font-family:"Nasalization Free.ttf" ;
+      font-family:Nasalization Free;
       font-size: 58px;
       text-align: center;
 }
 /* Our Games */
 /* Death Dungeon */
 .deathdungeontitle {
-      font-family:"Nasalization Free.ttf" ;
+      font-family:Nasalization Free ;
       font-size: 36px;
       text-align: left;
       padding-left: 4cm
 }
 .deathdungeondiscribtion {
-      font-family:"Nasalization Free.ttf";
+      font-family:Nasalization Free;
       font-size:28px;
       padding-left: 15cm;
 }
@@ -108,7 +108,7 @@
       padding-left: 1.5cm;  
 }
 h3{
-      font-family: "Nasalization Free.ttf";
+      font-family: Nasalization Free;
       padding-left:24cm;
       color:black;
       font-size:24px;
@@ -118,13 +118,13 @@ h3:hover{
 }
 /* Legend of Legance */
 .legendtitle {
-      font-family:"Nasalization Free.ttf" ;
+      font-family:Nasalization Free;
       font-size: 36px;
       text-align: left;
       padding-left: 4cm
 }
 .legenddiscribtion {
-      font-family:"Nasalization Free.ttf";
+      font-family:Nasalization Free;
       font-size:28px;
       padding-left: 15cm;
 }
@@ -136,13 +136,13 @@ h3:hover{
 /* Our Websites */
 /* DPG Website */
 .dpgsitetitle {
-      font-family:"Nasalization Free.ttf" ;
+      font-family:Nasalization Free ;
       font-size: 36px;
       text-align: left;
       padding-left: 4cm
 }
 .dpgsitediscribtion {
-      font-family:"Nasalization Free.ttf";
+      font-family:Nasalization Free;
       font-size:28px;
       padding-left: 10cm;
 }
