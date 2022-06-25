@@ -1,5 +1,6 @@
 .bg {
       background-image: url(Back.png);
+      max-width:100%;height:auto;
 }
 .nav {
       position: fixed;
@@ -64,12 +65,12 @@
 }
 /* */
 .videotitle {
-      font-family:Nasalization Free ;
+      font-family:"Nasalization Free.ttf" ;
       font-size: 72px;
       text-align: center;
 }
 .h1advertisedpg {
-      font-family:Nasalization Free ;
+      font-family:"Nasalization Free.ttf";
       padding-left:5cm;
 }
 .advertisedpgvideo {

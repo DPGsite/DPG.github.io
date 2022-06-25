@@ -2,11 +2,12 @@
       background-image: url("Back.png");
       background-repeat: no-repeat;
       background-attachment: fixed;  
-      background-size: 1366px 663px;
+      max-width:100%;height:auto;
+
 }
 /*  */
 .headtitle {
-      font-family: Nasalization Free ;
+      font-family: "Nasalization Free.ttf" ;
       color:#ec1d1d;
       text-align: center;
 }
@@ -95,37 +96,37 @@
       height:96px;
 }
 .abocontustitle {
-      font-family:Nasalization Free ;
+      font-family:"Nasalization Free.ttf" ;
       font-size: 72px;
       text-align: center;
 }
 .aboutustitle {
-      font-family:Nasalization Free ;
+      font-family:"Nasalization Free.ttf" ;
       font-size: 56px;
       text-align: center;
 }
 .whoareus {
-      font-family:Nasalization Free ;
+      font-family:"Nasalization Free.ttf" ;
       text-align: center;
 }
 .whatsdpg {
       color:black;
       font-size: 24px;
-      font-family:Nasalization Free;
+      font-family:"Nasalization Free.ttf";
       text-align: center;
 }
 .contactustitle {
-      font-family:Nasalization Free ;
+      font-family:"Nasalization Free.ttf" ;
       font-size: 56px;
       text-align: center;
 }
 .projtitle {
-      font-family:Nasalization Free ;
+      font-family:"Nasalization Free.ttf" ;
       font-size: 72px;
       text-align: center;
 }
 .kindofproj {
-      font-family:Nasalization Free ;
+      font-family:"Nasalization Free.ttf" ;
       text-align: center;
 }
 .applogoimg {
@@ -170,7 +171,7 @@
 
 }
 .videosp{
-      font-family:Nasalization Free ;
+      font-family:"Nasalization Free.ttf" ;
       font-size: 72px;
       text-align: center;
 }
@@ -180,7 +181,7 @@
       padding-left:8cm;
 }
 .seemorevideos {
-      font-family:Nasalization Free ;
+      font-family:"Nasalization Free.ttf";
       text-align: center;
       padding-top: 25px;
       color:black;
@@ -189,7 +190,7 @@
       color:rgb(28, 172, 52);
 }
 .emailcontactus {
-      font-family:Nasalization Free ;
+      font-family:"Nasalization Free.ttf" ;
       font-size: 38px;
       text-align: center;
 
